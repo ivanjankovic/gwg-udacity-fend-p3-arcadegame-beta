@@ -22,6 +22,7 @@ class Player extends Entity {
     constructor() {
         super();
         this.sprite += "char-boy.png";
+        // console.log(this.x);
     }
 }
 
